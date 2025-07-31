@@ -5,7 +5,7 @@
 
 ## Sobre o Projeto
 
-O **Analise de Perfil dos Clientes** é um projeto de análise descritiva e visual desenvolvido com Python, focado em transformar dados simulados sobre perfis de leads e preferências de veículos em gráficos automatizados. Ele foi pensado para apoiar decisões de marketing e vendas com base em padrões de comportamento e interesses dos consumidores.
+O **Analise de Perfil dos Clientes** é um projeto guiado de análise descritiva e visual desenvolvido com Python, focado em transformar dados simulados sobre perfis de leads e preferências de veículos em gráficos automatizados. Ele foi pensado para apoiar decisões de marketing e vendas com base em padrões de comportamento e interesses dos consumidores.
 
 <h4 align="center"> 
 	✅ Concluído
